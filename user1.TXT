@@ -1,0 +1,6 @@
+第2個 push/pull的測試 
+
+由user2來改變user.txt
+
+
+user2測試--201510220126
